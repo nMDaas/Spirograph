@@ -1,1 +1,1 @@
-A fun animation developed using openGL and C++ to visualize a spirograph and how its pattern changes with changes in circle size
+A fun animation developed using openGL and C++ to visualize a spirograph and how its pattern changes with changes in circle size. Use the keys "i" and "I" to decrease and increase size of the inner circle and see the pattern change!
