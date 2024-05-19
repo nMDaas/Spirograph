@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/natashadaas/cs4300/spirograph",
+            "binaryPath": "/Users/natashadaas/cs4300/spirograph/spirograph",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "cmath": "cpp",
+        "random": "cpp"
+    }
+}
